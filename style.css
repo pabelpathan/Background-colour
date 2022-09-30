@@ -1,0 +1,52 @@
+.class1{
+    background-color: aqua;
+    color: brown;
+}
+.class1 > h3{
+    background-color: bisque;
+    color: black;
+}
+.class4{
+    background-color: rgb(26, 228, 43);
+    color: rgb(74, 40, 167);
+
+}
+.class4 > h3{
+    background-color: bisque;
+    color: black;
+}
+.class2{
+    background-color: rgb(131, 63, 241);
+    color: rgb(240, 228, 228);
+
+}
+.class2 > h3{
+    background-color: bisque;
+    color: black;
+}
+.class3{
+    background-color: rgb(238, 231, 245);
+    color: rgb(26, 9, 9);
+
+}
+.class3 > h3{
+    background-color: bisque;
+    color: black;
+}
+
+.class1 > button{
+    background-color: navy;
+    color: yellow;
+}
+.class4 > button{
+    background-color: lightblue;
+    color: yellow;
+}
+.class2 > button{
+    background-color: palevioletred;
+    color: yellow;
+}
+.class3 > button{
+    background-color: tomato;
+    color: yellow;
+}
