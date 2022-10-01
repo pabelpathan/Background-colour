@@ -50,3 +50,37 @@
     background-color: tomato;
     color: yellow;
 }
+
+
+.brd{
+    border:2px dashed blue;
+}
+.brd1{
+    border:2px dotted blue;
+}
+.brd2{
+    border:2px double blue;
+}
+.brd3{
+    border:2px solid blue;
+}
+.brd4{
+    border:2px groove blue;
+}
+.brd5{
+    border:2px inset blue;
+}
+.brd6{
+    border:2px outset blue;
+}
+.brd7{
+    border-bottom:10px dotted blue;
+    border-top:10px groove blue;
+    border-left: 10px dashed blue;
+    border-right: 10px double blue;
+    border-radius: 20px;
+
+}
+.brd8{
+    border:2px groove blue;
+}
